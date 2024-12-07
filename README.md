@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Vercel](https://your-solution-url.com)
+- Solution URL: [Vercel](https://faq-accordion-git-main-beealmightys-projects.vercel.app/)
 - Live Site URL: [Live Server](http://127.0.0.1:5500/)
 
 ## My process
